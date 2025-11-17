@@ -1,0 +1,21 @@
+# Ce fichier configure l'analyseur, qui analyse statiquement le code Dart pour
+# vérifier les erreurs, les avertissements et les lints.
+
+# Les problèmes identifiés par l'analyseur apparaissent dans l'interface utilisateur de Dart-enabled
+# IDEs (https://dart.dev/tools/ides-and-editors). L'analyseur peut également être
+# invoqué depuis la ligne de commande en exécutant 'flutter analyze'.
+
+# La ligne suivante active un ensemble de lints recommandés pour les applications Flutter,
+# les packages et les plugins conçus pour encourager de bonnes pratiques de codage.
+# CORRECTION : Changer flutter.yaml par flutter_lints.yaml pour la compatibilité
+include: package:flutter_lints/flutter.yaml
+
+# linter:
+#   Les règles de lint appliquées à ce projet peuvent être personnalisées dans la
+#   section ci-dessous pour désactiver des règles du package 'package:flutter_lints/flutter_lints.yaml'
+#   inclus ci-dessus ou pour activer des règles supplémentaires. Une liste de tous les lints disponibles
+#   et leur documentation est publiée à https://dart.dev/lints.
+#
+#   # Exemple de désactivation d'une règle de lint pour l'ensemble du projet :
+#   # rules:
+#   #   - always_put_control_body_on_new_line: false
