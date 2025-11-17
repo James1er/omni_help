@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197554544689",
+    "project_id": "magapp-c4f46",
+    "storage_bucket": "magapp-c4f46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197554544689:android:15e138e63ad80eaecbb510",
+        "android_client_info": {
+          "package_name": "com.example.magapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR6FRLld5usF-JyVhvAvFFQpreWu3tXAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197554544689:android:6750fbdf1600358dcbb510",
+        "android_client_info": {
+          "package_name": "com.example.omni_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR6FRLld5usF-JyVhvAvFFQpreWu3tXAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
